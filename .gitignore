@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+
+#Folders
+data/
+MNIST_data/
+
+
